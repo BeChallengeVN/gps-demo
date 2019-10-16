@@ -1,2 +1,3 @@
 # gps-demo
-Demo Project
+Demo Project 
+How to use UPS data
